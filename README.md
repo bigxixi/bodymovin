@@ -5,7 +5,7 @@
 -----
 
 ***这是bodymovin插件说明的中文版，由[BigXiXi](https://github.com/bigxixi)翻译, 原文地址：https://github.com/bodymovin/bodymovin<br>
- 注意！项目中除了readme保持更新，其他文件最新版请[移步原版](https://github.com/bodymovin/bodymovin)获取。<br>
+ 注意！除了readme及汉化版zxp插件保持更新，其他项目文件最新版请[移步原版](https://github.com/bodymovin/bodymovin)获取。<br>
 文中After Effects术语参考自官方中文版AE。***   
 # bodymovin
 After Effects 插件，用于将动画导出为 svg/canvas/html + js。
