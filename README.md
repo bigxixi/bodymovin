@@ -25,10 +25,9 @@ After Effects 插件，用于将动画导出为 svg/canvas/html + js。
 - 支持投影效果器[Drop shadow effect support]
 - 做了偏移的图层动画效能提升[performance improvement on animations with offsetted layers]
 - 表达式效能提升[big performance improvement on expressions]
-- 加强了表达式支持[expressions expressions expressions]
+- 加强了表达式支持[expressions expressions expressions]  
 
-***完整更新说明（英文）参见https://github.com/bodymovin/bodymovin/blob/master/History.md  ***<br/>
-<br/>
+***完整更新说明（英文）参见https://github.com/bodymovin/bodymovin/blob/master/History.md***<br/>
 
 **直接从adobe在线商店获取！**
 https://creative.adobe.com/addons/products/12557  
