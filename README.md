@@ -1,3 +1,8 @@
+ ## 2018.03.19 更新bodymovin5.1.8 zxp插件汉化版
+ 
+ https://github.com/bigxixi/bodymovin_cn
+ 
+ -----
  ## 2017.04.04 更新bodymovin4.6.2 zxp插件汉化版， [下载地址点我](https://raw.githubusercontent.com/bigxixi/bodymovin/master/zxp_cn/bodymovin462cn.zxp)   <br />
  1.安装方法见正文，建议用方式1。自签名打包，如介意请使用[英文原版](https://github.com/bodymovin/bodymovin/tree/master/build/extension)。<br />
  2.修正了原版导出带透明通道png图片资源会有黑边问题。<br />
